@@ -1,8 +1,2 @@
 branch1
 one
-
-
-
-
-
-
